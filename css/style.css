@@ -187,13 +187,71 @@ margin-bottom: 20px;
 }
 .resume-title{
     text-align: center;
--content: space-between;
+    justify-content: space-between;
     margin-top: 100px;
-}    color: #181818;
-    font-size: 35px;
-    font-weight: 700;
-
+    margin-bottom: 100px;
 }
 .son-of-resume{
     display: flex;
-    justify
+    
+}
+
+.Resume{
+    padding: 200px;
+}
+.grand-son-of-resume{
+    margin-right: 150px;
+}
+.resume-sub-title{
+    margin-bottom: 20px;
+    margin-top: 40px;
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.resume-sub-sub{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.education{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-para{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Experience-sub-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.experience{
+    color: #474747;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: 700;
+   margin-bottom: 30px;
+
+}
+
+.Experience-sum-sum{
+    color: #757575;
+   font-size: 20px;
+   font-weight: 600;
+   margin-bottom: 20px;
+}
+
+
+    
+    
