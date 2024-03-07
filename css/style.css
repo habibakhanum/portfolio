@@ -235,6 +235,7 @@ margin-bottom: 20px;
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 .experience{
     color: #474747;
@@ -252,6 +253,23 @@ margin-bottom: 20px;
    margin-bottom: 20px;
 }
 
-
+hr{
+    margin-top: 30px;
+    width: 90%;
+}
+.bd{
+    text-align: center;
+    margin-top: 50px;
+}
+.foot{
+    background-color: #FFF8F3;
+    height: 780px;
+    display: flex;
+    padding: 130px 200px;
+}
+.lets{
+    display: flex;
+    flex-direction: column;
+}
     
     
